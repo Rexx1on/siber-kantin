@@ -1,0 +1,8 @@
+:root{color-scheme:dark;--green:#7cdb8b;--lime:#b6ed83;--night:#0c1210;--panel:#141d18}
+body{min-height:100vh;background:radial-gradient(ellipse at 50% 0,#1b2d22 0,#101713 36rem,#0b100d 100%);color:#f4f6f4}
+.navbar-brand{letter-spacing:.035em}.student-name{font-size:.58rem;color:#d9e5dc;margin-left:.5rem;vertical-align:middle}
+.announcement{background:#24733e;color:#fff}.coupon-box{display:none;background:#26342a;color:#f5f6f4;border-bottom:1px solid #3a6547}
+.eyebrow{color:var(--lime);font-size:.75rem;letter-spacing:.22em;font-weight:800}.text-secondary{color:#aab7ad!important}
+.meal-card{height:100%;background:linear-gradient(155deg,#1a251e,#111713);border:1px solid #344239;transition:transform .25s ease,border-color .25s ease,box-shadow .25s ease}.meal-card:hover{transform:translateY(-10px);border-color:#ff9900;box-shadow:0 18px 34px #0008}
+.meal-photo{height:210px;object-fit:cover}.meal-price{font-size:1.35rem;font-weight:800;color:#ffd166}.table-responsive{border:1px solid #38423b;border-radius:.7rem}.table{min-width:720px}.form-control:focus{border-color:#74cf83;box-shadow:0 0 0 .2rem #74cf8333}
+@media(max-width:575px){.student-name{display:block;margin:0}.meal-photo{height:190px}}
